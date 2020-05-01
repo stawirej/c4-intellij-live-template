@@ -1,6 +1,13 @@
 @startuml
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Component.puml
 
-title Dynamic Diagram for 
+title Dynamic Diagram for
+
+Container(ctr, "label", "technology", "description")
+Component(cmp, "label", "technology", "description")
+ContainerDb(cdb, "label", "technology", "description")
+
+Rel(ctr, cmp, "label", "technology")
+Rel(cmp, cdb, "label", "technology")
 
 @enduml
