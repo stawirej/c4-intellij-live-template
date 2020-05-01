@@ -1,0 +1,6 @@
+@startuml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Context.puml
+
+title System Landscape Diagram for
+
+@enduml
