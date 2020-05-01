@@ -3,4 +3,8 @@
 
 title System Landscape Diagram for
 
+Boundary(b, "label", "type") {
+    System(s, "label", "description")
+}
+
 @enduml
