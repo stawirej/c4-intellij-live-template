@@ -3,7 +3,9 @@
 
 title Container Diagram for
 
-Container(c, "label", "technology", "description")
-ContainerDb(cdb, "label", "technology", "description")
+System_Boundary(b, "label") {
+    Container(c, "label", "technology", "description")
+    ContainerDb(cdb, "label", "technology", "description")
+}
 
 @enduml
