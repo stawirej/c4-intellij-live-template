@@ -1,0 +1,18 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IntelliJ
+*.iml
+*.idea
+
+# Target
+target
+
+
+# Other
+.DS_Store
+*.pdf
+*.html
