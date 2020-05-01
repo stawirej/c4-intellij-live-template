@@ -3,4 +3,7 @@
 
 title Component Diagram for
 
+Component(c, "label", "technology", "description")
+ComponentDb(cdb, "label", "technology", "description")
+
 @enduml
