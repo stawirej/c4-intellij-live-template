@@ -3,4 +3,9 @@
 
 title System Context Diagram for
 
+System(s, "label", "description")
+SystemDb(sdb, "label", "description")
+SystemDb_Ext(sdbe, "label", "description")
+System_Ext(se, "label", "description")
+
 @enduml
