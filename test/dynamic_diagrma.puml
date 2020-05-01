@@ -4,10 +4,14 @@
 title Dynamic Diagram for
 
 Container(ctr, "label", "technology", "description")
-Component(cmp, "label", "technology", "description")
+
+Container_Boundary(b, "label") {
+    Component(cmp, "label", "technology", "description")
+}
+
 ContainerDb(cdb, "label", "technology", "description")
 
-Rel(ctr, cmp, "label", "technology")
-Rel(cmp, cdb, "label", "technology")
+Rel_R(ctr, cmp, "1. label", "technology")
+Rel(cmp, cdb, "2. label", "technology")
 
 @enduml
