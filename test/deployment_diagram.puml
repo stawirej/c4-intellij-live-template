@@ -3,4 +3,16 @@
 
 title Deployment Diagram for
 
+Boundary(b, "label", "Deployment Node: ") {
+    Container(c1, "label", "technology", "description")
+}
+
+Boundary(b1, "label", "Deployment Node: ") {
+    Boundary(bb, "label", "Deployment Node: ") {
+        Container(c2, "label", "technology", "description")
+    }
+}
+
+Rel_R(c1, c2, "label", "technology")
+
 @enduml
