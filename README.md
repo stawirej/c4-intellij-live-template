@@ -8,7 +8,7 @@
 
 # Install
 
-1. Download [IntelliJ live template](https://github.com/stawirej/c4-intellij-live-template/blob/master/c4_live_template.zip) ZIP file for [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).
+1. Download [IntelliJ live template](./c4_live_template.zip) ZIP file for [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).
 2. Select `File | Manage IDE Settings | Import Settings` from the IntelliJ IDEA menu.
 3. Specify the path to the downloaded `c4_live_template.zip` file.4. In the Import Settings dialog, select the Live templates checkbox and click OK.
 4. Restart IntelliJ.
