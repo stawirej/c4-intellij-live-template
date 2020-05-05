@@ -21,3 +21,5 @@
 ### Templates
 
 ![Live template](./images/c4.png)
+
+![](./images/c4demo.gif)
