@@ -22,4 +22,5 @@
 
 ![Live template](./images/c4.png)
 
-![](./images/c4demo.gif)
+![](./images/c4demo1.gif)
+
