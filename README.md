@@ -1,5 +1,10 @@
 # IntelliJ Live Template for supporting creation of C4 model diagrams with C4-PlantUML.
 
+# Demo
+![](./images/c4demo1.gif)
+
+![](./images/c4demoall.gif)
+
 # Prerequisites
 
 ### Theory
@@ -52,10 +57,3 @@
     * Rel, Rel_L, Rel_R, Rel_U, Rel_D
 * c4_layout_
     * Lay_L, Lay_R, Lay_U, Lay_D
-
-
-### Demo
-
-![](./images/c4demo1.gif)
-
-![](./images/c4demoall.gif)
