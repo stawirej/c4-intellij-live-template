@@ -54,6 +54,6 @@
 * c4_boundary_container
 * c4_boundary_deployment
 * c4_relation
-    * Rel, Rel_L, Rel_R, Rel_U, Rel_D
+    * Variations: Rel, Rel_L, Rel_R, Rel_U, Rel_D
 * c4_layout_
-    * Lay_L, Lay_R, Lay_U, Lay_D
+    * Variations: Lay_L, Lay_R, Lay_U, Lay_D
