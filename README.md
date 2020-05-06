@@ -57,3 +57,7 @@
     * Variations: Rel, Rel_L, Rel_R, Rel_U, Rel_D
 * c4_layout_
     * Variations: Lay_L, Lay_R, Lay_U, Lay_D
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
