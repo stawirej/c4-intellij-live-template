@@ -2,8 +2,12 @@
 
 # Prerequisites
 
+### Theory
+[The C4 model for visualising software architecture](https://c4model.com/)  
+[C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)
+
+### Tools  
 [Graphviz download](https://graphviz.gitlab.io/download/)  
-[PlantUML graphviz notes](http://plantuml.com/graphviz-dot)  
 [PlantUML Integration](https://plugins.jetbrains.com/plugin/7017-plantuml-integration)
 
 # Install
@@ -20,7 +24,37 @@
 
 ### Templates
 
-![Live template](./images/c4.png)
+* c4_level_1_context_diagram
+    * Create file content for the system context diagram. 
+* c4_level_2_container_diagram
+    * Create file content for the system container diagram. 
+* c4_level_3_component_diagram
+    * Create file content for the component diagram. 
+* c4_person
+* c4_system
+* c4_system_ext
+* c4_system_db
+* c4_system_db_ext
+* c4_container
+* c4_container_db
+* c4_component
+* c4_component_db
+* c4_supplementary_dynamic_diagram
+* c4_supplementary_landscape_diagram
+* c4_supplementary_deployment_diagram
+* c4_boundary
+    * Boundary(alias, label), Boundary(alias, label, type)
+* c4_boundary_enterprise
+* c4_boundary_system
+* c4_boundary_container
+* c4_boundary_deployment
+* c4_relation
+    * Rel, Rel_L, Rel_R, Rel_U, Rel_D
+* c4_layout_
+    * Lay_L, Lay_R, Lay_U, Lay_D
+
+
+### Demo
 
 ![](./images/c4demo1.gif)
 
