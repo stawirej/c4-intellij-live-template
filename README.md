@@ -26,6 +26,9 @@
 
 * Create new PlantUML file (.puml).
 * Type `c4_` for displaying artifacts templates for [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).
+* Live template create correct C4 model artifact with stubbed arguments. 
+    * E.g. alias, label, type, technology, description
+* Replace stubbed arguments with desired values.
 
 ### Templates
 
