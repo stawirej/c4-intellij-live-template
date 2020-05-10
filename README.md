@@ -51,12 +51,12 @@
 * c4_system_db_ext
 * c4_container
 * c4_container_db
-* c4_container_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
-* c4_container_db_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
+* c4_container_ext (supported only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
+* c4_container_db_ext (supported only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
 * c4_component
 * c4_component_db
-* c4_component_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
-* c4_component_db_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
+* c4_component_ext (supported only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
+* c4_component_db_ext (supported only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
 * c4_supplementary_dynamic_diagram
 * c4_supplementary_landscape_diagram
 * c4_supplementary_deployment_diagram
