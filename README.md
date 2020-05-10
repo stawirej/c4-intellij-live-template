@@ -18,9 +18,8 @@
 # Install
 
 1. Download one of:
-    1. [IntelliJ live template](RicardoNiepel/C4-PlantUML/c4_live_template.zip)  for [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).  
-    or
-    2. [IntelliJ live template](stawirej/C4-PlantUML/c4_live_template.zip)  for [stawirej/C4-PlantUML]() 
+    * [IntelliJ live template](C4-PlantUML/stawirej/c4_live_template.zip) for [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML)
+    * [IntelliJ live template](C4-PlantUML/RicardoNiepiel/c4_live_template.zip) for [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).  
 2. Select `File | Manage IDE Settings | Import Settings` from the IntelliJ IDEA menu.
 3. Specify the path to the downloaded ZIP file: `c4_live_template.zip`.
 4. In the Import Settings dialog, select the Live templates checkbox and click OK.
@@ -29,14 +28,15 @@
 # Usage
 
 * Create new PlantUML file (.puml).
-* Type `c4_` for displaying artifacts templates for [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).
+* Type `c4_` for displaying artifacts templates for C4-PlantUML
 * Live template create correct C4 model artifact with stubbed arguments. 
     * E.g. alias, label, type, technology, description
 * Replace stubbed arguments with desired values.
 
 ### Templates
 
-> Depending on used Live Template, C4 source files comes from [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)  or [stawirej/C4-PlantUML]().
+> Depending on used Live Template, it has different set of templates and will include C4 source files from 
+> [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML) or [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).
 
 * c4_level_1_context_diagram
     * Create file content for the system context diagram.
@@ -51,8 +51,12 @@
 * c4_system_db_ext
 * c4_container
 * c4_container_db
+* c4_container_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
+* c4_container_db_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
 * c4_component
 * c4_component_db
+* c4_component_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
+* c4_component_db_ext (only in [stawirej/C4-PlantUML](https://github.com/stawirej/C4-PlantUML))
 * c4_supplementary_dynamic_diagram
 * c4_supplementary_landscape_diagram
 * c4_supplementary_deployment_diagram
