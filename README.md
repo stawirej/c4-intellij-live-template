@@ -17,9 +17,13 @@
 
 # Install
 
-1. Download [IntelliJ live template](./c4_live_template.zip) ZIP file for [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).
+1. Download one of:
+    1. [IntelliJ live template](RicardoNiepel/C4-PlantUML/c4_live_template.zip)  for [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML).  
+    or
+    2. [IntelliJ live template](stawirej/C4-PlantUML/c4_live_template.zip)  for [stawirej/C4-PlantUML]() 
 2. Select `File | Manage IDE Settings | Import Settings` from the IntelliJ IDEA menu.
-3. Specify the path to the downloaded `c4_live_template.zip` file.4. In the Import Settings dialog, select the Live templates checkbox and click OK.
+3. Specify the path to the downloaded ZIP file: `c4_live_template.zip`.
+4. In the Import Settings dialog, select the Live templates checkbox and click OK.
 4. Restart IntelliJ.
 
 # Usage
@@ -32,8 +36,10 @@
 
 ### Templates
 
+> Depending on used Live Template, C4 source files comes from [RicardoNiepel/C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML)  or [stawirej/C4-PlantUML]().
+
 * c4_level_1_context_diagram
-    * Create file content for the system context diagram. 
+    * Create file content for the system context diagram.
 * c4_level_2_container_diagram
     * Create file content for the system container diagram. 
 * c4_level_3_component_diagram
